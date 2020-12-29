@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/management/context/ApplicationContext.java" line="56" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99019182-3242-4fc9-a2bc-ce7e3015c0ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/fastjson_1_2_58.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/statistic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dormitories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/META-INF/student_dormitory_management.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/context/ApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/dao/base/Building.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/dao/base/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/dao/base/Room.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/dao/ext/Dormitory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/dao/ext/SecurityStaff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/dao/ext/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/dao/ext/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/exception/NoCommandException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/exception/QueryStopException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/Command.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory$11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory$13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory$14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory$15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory$16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory$17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory$18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory$19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/CommandFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/Controller$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/Controller$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/Controller$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/Controller$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/Controller$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/manage/MenuItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/service/BaseService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/service/DormitoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/service/PersonService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/service/RoomService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/service/ext/SecurityStaffService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/service/ext/StudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/com/management/service/ext/TeacherService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/student_dormitory_management/test/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rooms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/securityStaffs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/context/ApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/dao/base/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/dao/base/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/dao/base/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/dao/ext/Dormitory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/dao/ext/SecurityStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/dao/ext/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/dao/ext/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/exception/NoCommandException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/exception/QueryStopException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/manage/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/manage/CommandFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/manage/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/manage/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/manage/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/service/BaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/service/DormitoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/service/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/service/RoomService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/service/ext/SecurityStaffService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/service/ext/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/management/service/ext/TeacherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_dormitory_management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teachers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/文档.docx" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="student_dormitory_management" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/management/dao/base/Building.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/management/context/ApplicationContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="49" column="46" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/management/manage/Command.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/management/dao/ext/Dormitory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/management/service/DormitoryService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1606#1607#0" expanded="true" />
+                <element signature="e#1664#1665#0" expanded="true" />
+                <element signature="e#1720#1721#0" expanded="true" />
+                <element signature="e#1781#1782#0" expanded="true" />
+                <element signature="e#1951#1952#0" expanded="true" />
+                <element signature="e#2011#2012#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/management/manage/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="136" column="32" lean-forward="true" selection-start-line="136" selection-start-column="32" selection-end-line="136" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Singleton" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>void</find>
+      <find>保存</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ApplicationContext</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/management/dao/ext/SercurityStaff.java" />
+        <option value="$PROJECT_DIR$/src/com/management/service/ext/TeacherService.java" />
+        <option value="$PROJECT_DIR$/src/com/management/service/ext/SecurityStaffService.java" />
+        <option value="$PROJECT_DIR$/src/com/management/exception/NoCommandException.java" />
+        <option value="$PROJECT_DIR$/src/com/management/exception/QueryStopException.java" />
+        <option value="$PROJECT_DIR$/src/com/management/manage/Menu.java" />
+        <option value="$PROJECT_DIR$/src/com/management/manage/MenuItem.java" />
+        <option value="$PROJECT_DIR$/src/com/management/service/PersonService.java" />
+        <option value="$PROJECT_DIR$/src/com/management/manage/Command.java" />
+        <option value="$PROJECT_DIR$/src/com/management/service/DormitoryService.java" />
+        <option value="$PROJECT_DIR$/src/com/management/dao/base/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/management/dao/base/Building.java" />
+        <option value="$PROJECT_DIR$/src/com/management/dao/base/Room.java" />
+        <option value="$PROJECT_DIR$/src/com/management/service/RoomService.java" />
+        <option value="$PROJECT_DIR$/src/com/management/service/ext/StudentService.java" />
+        <option value="$PROJECT_DIR$/src/com/management/manage/CommandFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/management/dao/ext/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/com/management/dao/ext/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/management/dao/ext/SecurityStaff.java" />
+        <option value="$PROJECT_DIR$/src/com/management/dao/ext/Dormitory.java" />
+        <option value="$PROJECT_DIR$/src/com/management/context/ApplicationContextTest.java" />
+        <option value="$PROJECT_DIR$/test" />
+        <option value="$PROJECT_DIR$/src/test/Test1.java" />
+        <option value="$PROJECT_DIR$/src/com/management/manage/Controller.java" />
+        <option value="$PROJECT_DIR$/src/com/management/context/ApplicationContext.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="20" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="student_dormitory_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="student_dormitory_management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="student_dormitory_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="student_dormitory_management" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="student_dormitory_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="student_dormitory_management" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="student_dormitory_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="student_dormitory_management" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="student_dormitory_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="student_dormitory_management" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="student_dormitory_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="student_dormitory_management" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="student_dormitory_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="student_dormitory_management" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="student_dormitory_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="student_dormitory_management" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="student_dormitory_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="student_dormitory_management" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="student_dormitory_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="student_dormitory_management" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+              <item name="manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="student_dormitory_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="student_dormitory_management" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="student_dormitory_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="student_dormitory_management" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="student_dormitory_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609248131021" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.management.context" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Controller">
+    <configuration name="Controller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.management.manage.Controller" />
+      <module name="student_dormitory_management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.management.manage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test1" />
+      <module name="student_dormitory_management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Controller" />
+        <item itemvalue="Application.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99019182-3242-4fc9-a2bc-ce7e3015c0ef" name="Default Changelist" comment="" />
+      <created>1608629571365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608629571365</updated>
+      <workItem from="1608629576982" duration="25835000" />
+      <workItem from="1608704824377" duration="251000" />
+      <workItem from="1608705106720" duration="395000" />
+      <workItem from="1608705535085" duration="251000" />
+      <workItem from="1608705816027" duration="10081000" />
+      <workItem from="1609156194055" duration="6018000" />
+      <workItem from="1609215586073" duration="5161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="47992000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.24329759" />
+      <window_info id="Structure" order="1" sideWeight="0.50067115" side_tool="true" weight="0.2272118" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.502" side_tool="true" weight="0.23324397" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3282123" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3282123" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3282123" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" weight="0.32885906" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3282123" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Statistic" order="13" weight="0.41061452" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Word Book" order="7" side_tool="true" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.23994638" />
+      <window_info id="Structure" order="1" sideWeight="0.50067115" side_tool="true" weight="0.2272118" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.502" side_tool="true" weight="0.23324397" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3282123" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32885906" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32885906" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" weight="0.32885906" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3282123" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Statistic" order="13" weight="0.41061452" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Word Book" order="7" side_tool="true" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/management/manage/CommandFactory2.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="554" column="13" selection-start-line="554" selection-start-column="13" selection-end-line="554" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="2077" lean-forward="true" selection-start-line="2077" selection-end-line="2077" />
+          <folding>
+            <element signature="e#78006#78007#0" expanded="true" />
+            <element signature="e#78050#78051#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/Cloneable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="218" column="22" lean-forward="true" selection-start-line="218" selection-start-column="22" selection-end-line="218" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/service/ext/SecurityStaffService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/service/PersonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1645#1646#0" expanded="true" />
+            <element signature="e#1696#1697#0" expanded="true" />
+            <element signature="e#1743#1744#0" expanded="true" />
+            <element signature="e#1798#1799#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/service/ext/TeacherService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="2669" column="15" selection-start-line="2669" selection-start-column="15" selection-end-line="2669" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/dao/ext/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/dao/ext/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/dao/ext/SecurityStaff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="65" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/dao/base/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/service/RoomService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2268">
+          <caret line="96" column="4" selection-start-line="96" selection-start-column="4" selection-end-line="107" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2019#2020#0" expanded="true" />
+            <element signature="e#2067#2068#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.management.context.ApplicationContext">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.management.context.ApplicationContext</OriginalElement>
+          <nodes>
+            <node x="" y="">com.management.context.ApplicationContext</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="81.0" y="55.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/exception/QueryStopException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/exception/NoCommandException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="79" column="46" lean-forward="true" selection-start-line="79" selection-start-column="46" selection-end-line="79" selection-end-column="46" />
+          <folding>
+            <element signature="e#23699#23700#0" expanded="true" />
+            <element signature="e#23735#23736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/context/ApplicationContextTest.java" />
+    <entry file="file://$PROJECT_DIR$/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="54" lean-forward="true" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/dao/base/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/manage/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/manage/MenuItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/service/BaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/service/DormitoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1606#1607#0" expanded="true" />
+            <element signature="e#1664#1665#0" expanded="true" />
+            <element signature="e#1720#1721#0" expanded="true" />
+            <element signature="e#1781#1782#0" expanded="true" />
+            <element signature="e#1951#1952#0" expanded="true" />
+            <element signature="e#2011#2012#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/manage/CommandFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/service/ext/StudentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#952#953#0" expanded="true" />
+            <element signature="e#1069#1070#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/manage/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="136" column="32" lean-forward="true" selection-start-line="136" selection-start-column="32" selection-end-line="136" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/manage/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/dao/ext/Dormitory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com</OriginalElement>
+          <nodes>
+            <node x="" y="">com.alibaba</node>
+            <node x="" y="">com.oracle</node>
+            <node x="" y="">com.management</node>
+            <node x="" y="">com.sun</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="133.5" y="90.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/context/ApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="49" column="46" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/context;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/dao;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/exception;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/manage;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/service;">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/com/management/context;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/dao;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/exception;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/manage;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/service;</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="564.5" y="325.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.management.dao.base.Building">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.management.dao.base.Building</OriginalElement>
+          <nodes>
+            <node x="0.0" y="80.0">com.management.dao.base.Building</node>
+            <node x="46.5" y="0.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.management.dao.base.Building" target="java.io.Serializable">
+              <point x="0.0" y="-177.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-221.5" y="131.5" />
+          <SelectedNodes>
+            <node>com.management.dao.base.Building</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.management.dao.ext.Dormitory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.management.dao.ext.Dormitory</OriginalElement>
+          <nodes>
+            <node x="0.0" y="110.0">java.lang.Throwable</node>
+            <node x="1400.2500000000005" y="1191.5">com.management.service.DormitoryService</node>
+            <node x="2638.25" y="1318.5">com.management.dao.ext.SecurityStaff</node>
+            <node x="121.54039351851884" y="1307.0">com.management.exception.QueryStopException</node>
+            <node x="3095.25" y="1203.0">com.management.dao.ext.Teacher</node>
+            <node x="1394.0" y="1900.0">com.management.manage.Menu</node>
+            <node x="701.0000000000002" y="213.5">com.management.context.ApplicationContext</node>
+            <node x="1794.2500000000002" y="1214.5">com.management.service.PersonService</node>
+            <node x="983.0" y="1900.0">com.management.manage.CommandFactory</node>
+            <node x="1415.2500000000005" y="1664.0">com.management.service.ext.TeacherService</node>
+            <node x="656.0" y="1900.0">com.management.manage.MenuItem</node>
+            <node x="377.54039351851884" y="1307.0">com.management.exception.NoCommandException</node>
+            <node x="82.0" y="1900.0">java.lang.Cloneable</node>
+            <node x="1915.7500000000002" y="559.5">com.management.service.BaseService</node>
+            <node x="315.0" y="1900.0">com.management.manage.Controller</node>
+            <node x="3372.25" y="1099.0">com.management.dao.ext.Student</node>
+            <node x="1095.0000000000002" y="397.5">com.management.dao.base.Building</node>
+            <node x="2612.0" y="0.0">java.io.Serializable</node>
+            <node x="0.0" y="1980.0">com.management.manage.Command</node>
+            <node x="2779.25" y="1099.0">com.management.dao.base.Room</node>
+            <node x="2173.2500000000005" y="1618.0">com.management.service.ext.StudentService</node>
+            <node x="1129.2500000000002" y="1260.0">com.management.dao.ext.Dormitory</node>
+            <node x="2173.2500000000005" y="1157.0">com.management.service.RoomService</node>
+            <node x="1794.2500000000002" y="1664.0">com.management.service.ext.SecurityStaffService</node>
+            <node x="2687.215393518519" y="363.0">com.management.dao.base.Person</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.management.dao.base.Person" target="java.io.Serializable">
+              <point x="0.0" y="-211.5" />
+              <point x="2806.215393518519" y="90.0" />
+              <point x="2681.0555555555557" y="90.0" />
+              <point x="12.555555555555657" y="15.0" />
+            </edge>
+            <edge source="com.management.dao.ext.Student" target="java.io.Serializable">
+              <point x="129.0" y="-234.5" />
+              <point x="3759.25" y="60.0" />
+              <point x="2718.7222222222226" y="60.0" />
+              <point x="50.22222222222217" y="15.0" />
+            </edge>
+            <edge source="com.management.dao.ext.Dormitory" target="java.io.Serializable">
+              <point x="62.75" y="-73.5" />
+              <point x="1317.5000000000002" y="1079.0" />
+              <point x="1311.5000000000002" y="1079.0" />
+              <point x="1311.5000000000002" y="80.0" />
+              <point x="2655.9444444444443" y="80.0" />
+              <point x="-12.555555555555657" y="15.0" />
+            </edge>
+            <edge source="com.management.dao.ext.SecurityStaff" target="com.management.dao.base.Person">
+              <point x="30.25" y="-15.0" />
+              <point x="2729.0" y="1079.0" />
+              <point x="2758.615393518519" y="1079.0" />
+              <point x="-47.59999999999991" y="211.5" />
+            </edge>
+            <edge source="com.management.service.PersonService" target="com.management.service.BaseService">
+              <point x="0.0" y="-119.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.management.service.ext.SecurityStaffService" target="com.management.service.PersonService">
+              <point x="0.0" y="-72.5" />
+              <point x="0.0" y="119.0" />
+            </edge>
+            <edge source="com.management.service.ext.TeacherService" target="com.management.service.PersonService">
+              <point x="0.0" y="-72.5" />
+              <point x="1594.7500000000005" y="1593.0" />
+              <point x="1854.0833333333335" y="1593.0" />
+              <point x="-119.66666666666674" y="119.0" />
+            </edge>
+            <edge source="com.management.exception.QueryStopException" target="java.lang.Throwable">
+              <point x="0.0" y="-26.5" />
+              <point x="239.54039351851884" y="1079.0" />
+              <point x="170.25" y="1079.0" />
+              <point x="-170.25" y="464.5" />
+            </edge>
+            <edge source="com.management.dao.ext.Dormitory" target="com.management.dao.base.Building">
+              <point x="-62.75" y="-73.5" />
+              <point x="1192.0000000000002" y="1079.0" />
+              <point x="1198.0000000000002" y="1079.0" />
+              <point x="0.0" y="177.0" />
+            </edge>
+            <edge source="java.lang.Throwable" target="java.io.Serializable">
+              <point x="0.0" y="-464.5" />
+              <point x="340.5" y="50.0" />
+              <point x="2618.2777777777783" y="50.0" />
+              <point x="-50.22222222222217" y="15.0" />
+            </edge>
+            <edge source="com.management.dao.base.Room" target="java.io.Serializable">
+              <point x="74.0" y="-234.5" />
+              <point x="3001.25" y="1079.0" />
+              <point x="2992.0" y="1079.0" />
+              <point x="2992.0" y="80.0" />
+              <point x="2693.6111111111113" y="80.0" />
+              <point x="25.111111111111313" y="15.0" />
+            </edge>
+            <edge source="com.management.service.DormitoryService" target="com.management.service.BaseService">
+              <point x="0.0" y="-142.0" />
+              <point x="1587.2500000000005" y="1079.0" />
+              <point x="1935.0833333333335" y="1079.0" />
+              <point x="-38.66666666666674" y="15.0" />
+            </edge>
+            <edge source="com.management.dao.ext.SecurityStaff" target="java.io.Serializable">
+              <point x="-30.25" y="-15.0" />
+              <point x="2668.5" y="1069.0" />
+              <point x="2643.590393518519" y="1069.0" />
+              <point x="2643.590393518519" y="90.0" />
+              <point x="2668.5" y="90.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.management.dao.ext.Student" target="com.management.dao.base.Person">
+              <point x="-129.0" y="-234.5" />
+              <point x="3501.25" y="1059.0" />
+              <point x="2901.4153935185186" y="1059.0" />
+              <point x="95.19999999999982" y="211.5" />
+            </edge>
+            <edge source="com.management.service.RoomService" target="com.management.dao.base.Person">
+              <point x="111.25" y="-176.5" />
+              <point x="2507.0000000000005" y="1079.0" />
+              <point x="2711.015393518519" y="1079.0" />
+              <point x="-95.19999999999982" y="211.5" />
+            </edge>
+            <edge source="com.management.dao.ext.Teacher" target="com.management.dao.base.Person">
+              <point x="-64.25" y="-130.5" />
+              <point x="3159.5" y="1069.0" />
+              <point x="2853.8153935185187" y="1069.0" />
+              <point x="47.59999999999991" y="211.5" />
+            </edge>
+            <edge source="com.management.manage.Command" target="java.lang.Cloneable">
+              <point x="0.0" y="-176.5" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.management.dao.ext.Teacher" target="java.io.Serializable">
+              <point x="64.25" y="-130.5" />
+              <point x="3288.0" y="70.0" />
+              <point x="2706.166666666667" y="70.0" />
+              <point x="37.666666666666515" y="15.0" />
+            </edge>
+            <edge source="com.management.service.RoomService" target="com.management.service.BaseService">
+              <point x="-111.25" y="-176.5" />
+              <point x="2284.5000000000005" y="1079.0" />
+              <point x="2012.416666666667" y="1079.0" />
+              <point x="38.66666666666674" y="15.0" />
+            </edge>
+            <edge source="com.management.exception.NoCommandException" target="java.lang.Throwable">
+              <point x="0.0" y="-26.5" />
+              <point x="502.54039351851884" y="1079.0" />
+              <point x="510.75" y="1079.0" />
+              <point x="170.25" y="464.5" />
+            </edge>
+            <edge source="com.management.dao.base.Building" target="java.io.Serializable">
+              <point x="0.0" y="-177.0" />
+              <point x="1198.0000000000002" y="70.0" />
+              <point x="2643.3888888888887" y="70.0" />
+              <point x="-25.111111111111313" y="15.0" />
+            </edge>
+            <edge source="com.management.dao.base.Room" target="com.management.dao.base.Person">
+              <point x="-74.0" y="-234.5" />
+              <point x="2853.25" y="1079.0" />
+              <point x="2806.215393518519" y="1079.0" />
+              <point x="0.0" y="211.5" />
+            </edge>
+            <edge source="com.management.service.ext.StudentService" target="com.management.service.PersonService">
+              <point x="0.0" y="-118.5" />
+              <point x="2352.7500000000005" y="1593.0" />
+              <point x="2093.416666666667" y="1593.0" />
+              <point x="119.66666666666674" y="119.0" />
+            </edge>
+            <edge source="com.management.context.ApplicationContext" target="java.io.Serializable">
+              <point x="0.0" y="-361.0" />
+              <point x="888.0000000000002" y="60.0" />
+              <point x="2630.833333333334" y="60.0" />
+              <point x="-37.666666666666515" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8778489116517281" x="1105.3064735111243" y="1501.3099245767653" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/dao;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/dao/base;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/dao/ext;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/exception;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/manage;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/service;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/service/ext;">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/com/management/dao;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/dao/base;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/dao/ext;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/exception;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/manage;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/service;D:/Users/Emor/IdeaProjects/student_dormitory_management/src/com/management/service/ext;</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="564.5" y="325.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/management/dao/base/Building.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>student_dormitory_management</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>14</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>fastjson-1.2.58</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
